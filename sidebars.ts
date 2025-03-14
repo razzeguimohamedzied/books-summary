@@ -21,6 +21,20 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: "category",
+      label: "Religion",
+      link: {
+        type: "generated-index",
+      },
+      items: [
+        {
+          type: "doc",
+          id: "religion/لانك-الله-رحلة-الى-السماء-السابعة",
+          label: "لأنك الله: رحلة إلى السماء السابعة - علي بن جابر الفيفي",
+        },
+      ],
+    },
+    {
+      type: "category",
       label: "Software Development",
       link: {
         type: "generated-index",
