@@ -78,6 +78,20 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
+    {
+      type: "category",
+      label: "Other",
+      link: {
+        type: "generated-index",
+      },
+      items: [
+        {
+          type: "doc",
+          id: "others/الأيام",
+          label: "الأيام - طه حسين",
+        },
+      ],
+    },
   ],
 };
 
