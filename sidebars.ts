@@ -55,6 +55,11 @@ const sidebars: SidebarsConfig = {
           id: "poetry/حسان-بن-ثابت",
           label: "حسان بن ثابت - خليل شرف الدين",
         },
+        {
+          type: "doc",
+          id: "poetry/الأعشى",
+          label: "الأعشى - خليل شرف الدين",
+        },
       ],
     },
     {
