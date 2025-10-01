@@ -50,6 +50,11 @@ const sidebars: SidebarsConfig = {
           id: "poetry/أبو-العتاهية",
           label: "أبو العتاهية - خليل شرف الدين",
         },
+        {
+          type: "doc",
+          id: "poetry/حسان-بن-ثابت",
+          label: "حسان بن ثابت - خليل شرف الدين",
+        },
       ],
     },
     {
