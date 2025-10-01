@@ -40,6 +40,20 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: "category",
+      label: "Poetry",
+      link: {
+        type: "generated-index",
+      },
+      items: [
+        {
+          type: "doc",
+          id: "poetry/أبو-العتاهية",
+          label: "أبو العتاهية - خليل شرف الدين",
+        },
+      ],
+    },
+    {
+      type: "category",
       label: "Software Development",
       link: {
         type: "generated-index",
