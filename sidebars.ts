@@ -36,6 +36,11 @@ const sidebars: SidebarsConfig = {
           id: "religion/لكنود",
           label: "لكنود - إسلام جمال",
         },
+        {
+          type: "doc",
+          id: "religion/عبقرية-محمد",
+          label: "عبقرية محمد - عباس محمود العقاد",
+        },
       ],
     },
     {
